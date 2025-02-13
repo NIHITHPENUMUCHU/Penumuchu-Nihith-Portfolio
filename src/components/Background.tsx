@@ -33,7 +33,7 @@ export function Background() {
             grab: {
               distance: 200,
               links: {
-                opacity: 0.5
+                opacity: 0.3
               }
             }
           }
@@ -59,14 +59,14 @@ export function Background() {
               default: "out",
             },
             random: true,
-            speed: 4,
+            speed: 2,
             straight: false,
           },
           number: {
             value: 50,
           },
           opacity: {
-            value: 0.8,
+            value: 0.5,
           },
           shape: {
             type: "circle",
