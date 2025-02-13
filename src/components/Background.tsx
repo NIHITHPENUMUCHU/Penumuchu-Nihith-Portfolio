@@ -63,7 +63,7 @@ export function Background() {
             straight: false,
           },
           number: {
-            value: 140,
+            value: 100,
           },
           opacity: {
             value: 0.8,
