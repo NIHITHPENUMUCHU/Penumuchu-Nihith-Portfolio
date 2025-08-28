@@ -69,7 +69,7 @@ export function Hero() {
           >
             <div className="w-56 h-56 md:w-80 md:h-80 rounded-full overflow-hidden border-2 border-emerald-400">
               <img 
-                src="/profile.jpg"
+                src="/profile.jpg.png"
                 alt="Nihith Penumuchu"
                 className="w-full h-full object-cover"
               />
